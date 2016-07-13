@@ -1,0 +1,1 @@
+# scalaz-validation-example
